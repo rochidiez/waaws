@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'kirvybold';
+    src: url('fonts/kirvy-bold-webfont.eot');
+    src: url('fonts/kirvy-bold-webfont.svg#kirvybold') format('svg'), url('fonts/kirvy-bold-webfont.eot?#iefix') format('embedded-opentype'), url('fonts/kirvy-bold-webfont.woff2') format('woff2'), url('fonts/kirvy-bold-webfont.woff') format('woff'), url('fonts/kirvy-bold-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'kirvylight';
+    src: url('fonts/kirvy-light-webfont.eot');
+    src: url('fonts/kirvy-light-webfont.svg#kirvylight') format('svg'), url('fonts/kirvy-light-webfont.eot?#iefix') format('embedded-opentype'), url('fonts/kirvy-light-webfont.woff2') format('woff2'), url('fonts/kirvy-light-webfont.woff') format('woff'), url('fonts/kirvy-light-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'kirvyregular';
+    src: url('fonts/kirvy-regular-webfont.eot');
+    src: url('fonts/kirvy-regular-webfont.svg#kirvyregular') format('svg'), url('fonts/kirvy-regular-webfont.eot?#iefix') format('embedded-opentype'), url('fonts/kirvy-regular-webfont.woff2') format('woff2'), url('fonts/kirvy-regular-webfont.woff') format('woff'), url('fonts/kirvy-regular-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'kirvythin';
+    src: url('fonts/kirvy-thin-webfont.eot');
+    src: url('fonts/kirvy-thin-webfont.svg#kirvythin') format('svg'), url('fonts/kirvy-thin-webfont.eot?#iefix') format('embedded-opentype'), url('fonts/kirvy-thin-webfont.woff2') format('woff2'), url('fonts/kirvy-thin-webfont.woff') format('woff'), url('fonts/kirvy-thin-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
